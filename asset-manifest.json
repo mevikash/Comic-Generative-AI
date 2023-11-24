@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Comic-Generative-AI/static/css/main.9bbacf2a.css",
+    "main.js": "/Comic-Generative-AI/static/js/main.ea1e12e6.js",
+    "static/js/787.dd137d72.chunk.js": "/Comic-Generative-AI/static/js/787.dd137d72.chunk.js",
+    "static/media/back.jpg": "/Comic-Generative-AI/static/media/back.2e64efa4d69bc067a30e.jpg",
+    "static/media/back1.jpg": "/Comic-Generative-AI/static/media/back1.34652e3f955ea725e294.jpg",
+    "static/media/back2.jpg": "/Comic-Generative-AI/static/media/back2.80f823f02753aedf10e9.jpg",
+    "index.html": "/Comic-Generative-AI/index.html",
+    "main.9bbacf2a.css.map": "/Comic-Generative-AI/static/css/main.9bbacf2a.css.map",
+    "main.ea1e12e6.js.map": "/Comic-Generative-AI/static/js/main.ea1e12e6.js.map",
+    "787.dd137d72.chunk.js.map": "/Comic-Generative-AI/static/js/787.dd137d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bbacf2a.css",
+    "static/js/main.ea1e12e6.js"
+  ]
+}
